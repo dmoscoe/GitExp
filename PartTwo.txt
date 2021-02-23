@@ -13,7 +13,7 @@ Woke in the world, war-troopers’ leader
 Heorogar, Hrothgar, and Halga the good;
 10
 Heard I that Elan was Ongentheow’s consort,
-He has three sons—one of them, Hrothgar—and a daughter named Elan. Hrothgar becomes a mighty king.
+He has three sons—one of them, Hrothgar
 The well-beloved bedmate of the War-Scylfing leader.
 Then glory in battle to Hrothgar was given,
 Waxing of war-fame, that willingly kinsmen
@@ -50,7 +50,6 @@ Bore it bitterly, he who bided in darkness,
 That light-hearted laughter loud in the building
 Greeted him daily; there was dulcet harp-music,
 Clear song of the singer. He said that was able
-[The course of the story is interrupted by a short reference to some old account of the creation.]
 To tell from of old earthmen’s beginnings,
 That Father Almighty earth had created,
 40
