@@ -1,1 +1,3 @@
 I'm adding this file on the branch main, which I think is different from the branch Main.
+
+Okay, now I'm supposedly on Main. But this file is still in the working directory. So what happens if I commit to Main again?
