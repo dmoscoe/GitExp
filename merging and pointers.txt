@@ -1,1 +1,3 @@
 If a commit has two parents, then it is on two branches. What branch will its child be on? The two branches are not equivalent: one branch is merged TO the other. So old-proj-state was merged TO waffles. So the child of the commit with two parents will be the child on waffles, I think. So the pointer to old-proj-state will point... where? That's my question now. Where will be the pointer to old-proj-state?
+
+The pointer to old-proj-state remained at the last pre-merge commit on old-proj-state. So the commit with two parents is on the branch that persisted after the merge. The branch that ended as a result of the merge has its last commit being one of two parents to its child.
